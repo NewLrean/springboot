@@ -1,0 +1,16 @@
+name: 张三
+age: 22
+content: "name:${name},age:${age}"
+student:
+  name: 我不叫张三
+  age: 25
+
+ACCRSSKRYID: LTAIUrfI3u2bjhBo
+ACCRSSKRYSECRET: lbO5KCFjzsVO2sdD7TacQNzvFDuTf8
+SMSTEMPLATE: SMS_140050101
+spring:
+  mvc:
+    view:
+      prefix : /WEB-INF/views/
+      suffix : .jsp
+
